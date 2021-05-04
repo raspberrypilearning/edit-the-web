@@ -39,9 +39,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ **HTML** is the language of websites
++ Websites are all made up of **tags**, which tell your pbrowser hoe to display it
++ Websites can be made to look much nicer using the coding language **CSS** in a stylesheet
 
 --- /collapse ---
 
@@ -50,8 +50,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+You can download the completed project [here](http://rpf.io/p/en/edit-the-web-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/edit-the-web/print){:target="_blank"}.
 
 --- /collapse ---
