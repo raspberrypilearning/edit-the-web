@@ -38,10 +38,10 @@ title: What you will need
 ---
 title: What you will learn
 ---
-
-+ **HTML** is the language of websites
-+ Websites are all made up of **tags**, which tell your pbrowser hoe to display it
++ There are a few languages you can use to make websites, but the main ones are **HTML** and **CSS**
++ **HTML** is the language of websites and tells your browser how to display it
 + Websites can be made to look much nicer using the coding language **CSS** in a stylesheet
++ Websites are all made up of **tags** which set the formatting
 
 --- /collapse ---
 
