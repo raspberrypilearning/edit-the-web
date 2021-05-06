@@ -5,7 +5,7 @@ In this project, you will look at the code that makes up a website. You will be 
 ### What you will make
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
+Follow the link here to view an example of a finished website.
 
 <div class="trinket-preview">
   <iframe src="https://mark_calleja_raspberrypi_org.trinket.io/sites/web1-project-1" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
