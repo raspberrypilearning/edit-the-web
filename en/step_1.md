@@ -2,6 +2,8 @@
 
 In this project, you will look at the code that makes up a website. You will be able to change the HTML in the website to make it more interesting, and change the CSS to make it more exciting!
 
+You'll read a short story about an influential figure from computing history and make an interesting site about them. 
+
 ### What you will make
 
 --- no-print ---
@@ -35,10 +37,10 @@ title: What you will need
 ---
 title: What you will learn
 ---
-+ There are a few languages you can use to make websites, but the main ones are **HTML** and **CSS**
++ **HTML** and **CSS** are the languages used to create websites
 + **HTML** is the language of websites and tells your browser how to display it
-+ Websites can be made to look much nicer using the coding language **CSS** in a stylesheet
-+ Websites are all made up of **tags** which set the formatting
++ Websites can be made to look much nicer using **CSS** in a stylesheet
++ Websites are all made up of **elements** which are defined using **tags**
 
 --- /collapse ---
 

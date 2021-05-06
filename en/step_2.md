@@ -5,8 +5,8 @@ In this project you're going to take a webpage that looks really boring and cont
 Before we start, pick a notable figure from computer science history you'll create your site about:
 + Ajay Bhatt - Inventor of the USB standard (India)
 + Alan Emtage - Inventor of internet search (Barbados)
-+ Radia Perlman - aka the 'Mother of the Internet', Invented STP networking (USA)
-+ Grace Hopper - inventor of the compiler and programmer since WWII (USA)
++ Radia Perlman - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
++ Grace Hopper - Inventor of the compiler, US Navy programmer since WWII (USA)
 
  
 --- task ---
@@ -17,7 +17,7 @@ If working **offline**, open the project [starter file](http://rpf.io/p/en/edit-
 
 You should see...
  
-![starter project](images/starter_project.png)
+![starter project](images/starter-project.png)
 
 --- /task ---
 
@@ -32,7 +32,7 @@ HTML elements are made up of a **start tag**, some content you want to display a
 Take a look now at the code in the website and see if you can identify the following elements:
 
 + The ```<!DOCTYPE html>``` declaration defines that this document is an HTML5 document
-+ The ```<html>``` element is the root element of an HTML page, and ends at the end onf the page with ```</html>```
++ The ```<html>``` element is the root element of an HTML page, and ends at the end of the page with ```</html>```
 + The```<head>``` element contains meta information about the HTML page and ends at the ```</head>``` end tag
 + The ```<title>``` element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) and ends with the ```</title>``` end tag
 + The ```<body>``` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. and ends at the ```</body>``` tag
@@ -43,10 +43,12 @@ Take a look now at the code in the website and see if you can identify the follo
 
 If you take a look, you'll notice that the information contained within the ```<head>``` element isn't displayed on the page. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
 
-We will include this information in every website we make. At this stage, we'll only be looking at the Title from the information in the site header.
+We will include this information in every website we make. In this project, we'll only be looking at the **Title** from the information in the site header.
 
 --- task ---
 Change the title of your website now by editing the text between the two ```<title>``` tags.
+
+You *could* write anything you want here, but we suggest you make it something about your chosen figure, so the browser tabs of you user are helpful.
 --- /task ---
 
 
