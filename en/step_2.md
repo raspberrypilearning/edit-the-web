@@ -35,9 +35,6 @@ Take a look now at the code in the website and see if you can identify the follo
 + The ```<html>``` element is the root element of an HTML page, and ends at the end of the page with ```</html>```
 + The```<head>``` element contains meta information about the HTML page and ends at the ```</head>``` end tag
 + The ```<title>``` element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) and ends with the ```</title>``` end tag
-+ The ```<body>``` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. and ends at the ```</body>``` tag
-+ The ```<h1>``` element defines a large heading, with higher numbers making smaller sized headings
-+ The ```<p>``` element defines a paragraph - what end tag do you think it has?
 
 --- /task ---
 
@@ -48,9 +45,33 @@ We will include this information in every website we make. In this project, we'l
 --- task ---
 Change the title of your website now by editing the text between the two ```<title>``` tags.
 
-You *could* write anything you want here, but we suggest you make it something about your chosen figure, so the browser tabs of you user are helpful.
+You *could* write anything you want here, but we suggest you make it something about your chosen figure, so the browser tab shows what the page is about.
 --- /task ---
 
+Inside the ```<body>``` element under the header, we put all the other elements we want to be displayed. 
+
++ The ```<body>``` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. and ends at the ```</body>``` tag.
++ The ```<h1>``` element defines a large heading, with higher numbers making smaller sized headings, all the way down to ```<h6>```. It ends in a ```</h1>``` tag.
++ The ```<p>``` element defines a paragraph - what end tag do you think it has?
+
+--- task ---
+Change the **heading** of your site to be indicative of the information you're about to include. 
+
+It might be the name if the figure you've chosen, or something more exciting about them that would draw your reader in.
+
+--- /task ---
+
+--- task ---
+
+--- /task ---
+
+--- task ---
+
+--- /task ---
+
+--- task ---
+
+--- /task ---
 
 --- task ---
 
