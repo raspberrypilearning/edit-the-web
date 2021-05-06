@@ -23,22 +23,22 @@ HTML elements are made up of a **start tag**, some content you want to display a
 
 Take a look now at the code in the website and see if you can identify the following elements:
 
-+ The <!DOCTYPE html> declaration defines that this document is an HTML5 document
-+ The <html> element is the root element of an HTML page, and ends at the end onf the page with </html>
-+ The <head> element contains meta information about the HTML page and ends at the </head> end tag
-+ The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) and ends with the </title> end tag
-+ The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. and ends at the </body> tag
-+ The <h1> element defines a large heading, with higher numbers making smaller sized headings
-+ The <p> element defines a paragraph - what end tag do you think it has?
++ The ```<!DOCTYPE html>``` declaration defines that this document is an HTML5 document
++ The ```<html>``` element is the root element of an HTML page, and ends at the end onf the page with ```</html>```
++ The```<head>``` element contains meta information about the HTML page and ends at the ```</head>``` end tag
++ The ```<title>``` element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) and ends with the ```</title>``` end tag
++ The ```<body>``` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. and ends at the ```</body>``` tag
++ The ```<h1>``` element defines a large heading, with higher numbers making smaller sized headings
++ The ```<p>``` element defines a paragraph - what end tag do you think it has?
 
 --- /task ---
 
-If you take a look, you'll notice that the information contained within the <head> element isn't displayed on the page. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
+If you take a look, you'll notice that the information contained within the ```<head>``` element isn't displayed on the page. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
 
 We will include this information in every website we make. At this stage, we'll only be looking at the Title from the information in the site header.
 
 --- task ---
-Change the <title> of your website by editing the text between the two tags.
+Change the title of your website now by editing the text between the two ```<title>``` tags.
 --- /task ---
 
 
