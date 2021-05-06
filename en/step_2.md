@@ -59,22 +59,27 @@ Inside the ```<body>``` element under the header, we put all the other elements 
 Change the **heading** of your site to be indicative of the information you're about to include. 
 
 It might be the name if the figure you've chosen, or something more exciting about them that would draw your reader in.
-
 --- /task ---
 
+The main body of your website will be in paragraph text marked by ```<p>``` and ```</p>``` tags. 
 
+In the main body of your website, you can see some text in the paragraph is grey.
+
+If there is text within your paragraph that you would like to style differently, you can set some ```<span>``` tags around it and then change the CSS. 
 
 --- task ---
+Create a first paragraph introducing your inspiring figure, using ```<span>``` tags to highlight important information. 
 
+Leave it ```DarkGray``` for now, we'll change the colour in the next step.
 --- /task ---
 
-
+DECIDE WHETHER WE WANT TO INCLUDE LINKS AT THIS STAGE
 
 --- task ---
-
+Make a link here
 --- /task ---
 
-
+Lists allow developers to group related information together. Lists can be unordered (like bullet points) or ordered (sequenced with numbers or letters). 
 
 
 --- task ---
