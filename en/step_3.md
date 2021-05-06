@@ -1,4 +1,4 @@
-## Make it fancy
+## Make it fancy with CSS
 
 If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
 

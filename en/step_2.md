@@ -1,14 +1,15 @@
-## Make a website your own
+## Make a website your own with HTML
 
 In this project you're going to take a webpage that looks really boring and contains no interesting information, then change the HTML and CSS to make it way cooler. 
 
-Before we start, pick a notable figure from computer science history you'll create your site about:
-+ Ajay Bhatt - Inventor of the USB standard (India)
-+ Alan Emtage - Inventor of internet search (Barbados)
-+ Radia Perlman - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
-+ Grace Hopper - Inventor of the compiler, US Navy programmer since WWII (USA)
+Before we start, pick a notable figure from computer science history you'll create your site about. 
 
- 
+We have provided some information on a few people here, or you are welcome to research another person who inspires you:
++ ![Ajay Bhatt](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of the USB standard (India)
++ ![Alan Emtage](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of internet search (Barbados)
++ ![Radia Perlman](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
++ ![Grace Hopper](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of the compiler, US Navy programmer since WWII (USA)
+
 --- task ---
 
 If working **online**, open the [starter project](https://trinket.io/library/trinkets/609451ca1d){:target="_blank"} in Trinket.
@@ -61,24 +62,37 @@ It might be the name if the figure you've chosen, or something more exciting abo
 
 --- /task ---
 
---- task ---
 
---- /task ---
 
 --- task ---
 
 --- /task ---
 
---- task ---
 
---- /task ---
 
 --- task ---
 
 --- /task ---
 
+
+
+
 --- task ---
 
 --- /task ---
+
+
+
+--- task ---
+
+--- /task ---
+
+
+
+--- task ---
+
+--- /task ---
+
+
 
 --- save ---
