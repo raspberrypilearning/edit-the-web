@@ -1,6 +1,13 @@
 ## Make a website your own
 
 In this project you're going to take a webpage that looks really boring and contains no interesting information, then change the HTML and CSS to make it way cooler. 
+
+Before we start, pick a notable figure from computer science history you'll create your site about:
++ Ajay Bhatt - Inventor of the USB standard (India)
++ Alan Emtage - Inventor of internet search (Barbados)
++ Radia Perlman - aka the 'Mother of the Internet', Invented STP networking (USA)
++ Grace Hopper - inventor of the compiler and programmer since WWII (USA)
+
  
 --- task ---
 
