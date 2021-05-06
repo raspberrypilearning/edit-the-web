@@ -19,6 +19,7 @@ The two main languages used to create websites are HTML (which stands for **H**y
 You'll notice that in the code window, there are lots of angular brackets: <> These denote the different **elements** that make up a website. 
 
 HTML elements are made up of a **start tag**, some content you want to display and an **end tag**.
+
 --- task ---
 
 Take a look now at the code in the website and see if you can identify the following elements:
