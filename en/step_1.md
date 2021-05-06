@@ -7,8 +7,8 @@ In this project, you will look at the code that makes up a website. You will be 
 --- no-print ---
 Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<div class="trinket-preview">
+  <iframe src="https://trinket.io/embed/html/609451ca1d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
