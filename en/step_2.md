@@ -5,10 +5,11 @@ In this project you're going to take a webpage that looks really boring and cont
 Before we start, pick a notable figure from computer science history you'll create your site about. 
 
 We have provided some information on a few people here, or you are welcome to research another person who inspires you:
-+ ![Ajay Bhatt](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of the USB standard (India)
-+ ![Alan Emtage](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of internet search (Barbados)
-+ ![Radia Perlman](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
-+ ![Grace Hopper](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of the compiler, US Navy programmer since WWII (USA)
++ [Ajay Bhatt](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of the USB standard (India)
++ [Alan Emtage](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of internet search (Barbados)
++ [Radia Perlman](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
++ [Grace Hopper](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - Inventor of the compiler, US Navy programmer since WWII (USA)
++ [Katherine Johnson](https://www.youtube.com/watch?v=ZZ5LpwO-An4) - NASA Mathematician and programmer, subject of the film *Hidden Figures*.
 
 --- task ---
 
