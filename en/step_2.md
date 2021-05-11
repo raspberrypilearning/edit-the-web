@@ -31,7 +31,7 @@ HTML elements are made up of a **start tag**, some content you want to display a
 
 --- task ---
 
-Take a look now at the code in the website and see if you can identify the following elements:
+Take a look now at the code in the website **header** and see if you can identify the following elements:
 
 + The ```<!DOCTYPE html>``` declaration defines that this document is an HTML5 document
 + The ```<html>``` element is the root element of an HTML page, and ends at the end of the page with ```</html>```
@@ -40,7 +40,7 @@ Take a look now at the code in the website and see if you can identify the follo
 
 --- /task ---
 
-If you take a look, you'll notice that the information contained within the ```<head>``` element isn't displayed on the page. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
+If you take a close look, you'll notice that the information contained within the ```<head>``` element isn't displayed on the page. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
 
 We will include this information in every website we make. In this project, we'll only be looking at the **Title** from the information in the site header.
 
@@ -50,6 +50,7 @@ Change the title of your website now by editing the text between the two ```<tit
 You *could* write anything you want here, but we suggest you make it something about your chosen figure, so the browser tab shows what the page is about.
 --- /task ---
 
+### Website Body
 Inside the ```<body>``` element under the header, we put all the other elements we want to be displayed. 
 
 + The ```<body>``` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. and ends at the ```</body>``` tag.
@@ -74,11 +75,7 @@ Create a first paragraph introducing your inspiring figure, using ```<span>``` t
 Leave it ```DarkGray``` for now, we'll change the colour in the next step.
 --- /task ---
 
-DECIDE WHETHER WE WANT TO INCLUDE LINKS AT THIS STAGE
-
---- task ---
-Make a link here
---- /task ---
+### Lists 
 
 Lists allow developers to group related information together. Lists can be unordered (like bullet points) or ordered (sequenced with numbers or letters). 
 
