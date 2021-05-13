@@ -77,10 +77,11 @@ Leave it ```DarkGray``` for now, we'll change the colour in the next step.
 
 ### Lists 
 
-Lists allow developers to group related information together. Lists can be unordered (like bullet points) or ordered (sequenced with numbers or letters). 
+Lists allow developers to group related information together. Lists can be unordered (like bullet points) or ordered (sequenced with numbers or letters). The tags for unordered lists are ```<ul> and </ul>``` and the tags for ordered lists are ```<ol> and </ol>```.
 
 
 --- task ---
+Put some of the interesting bullet points from your biography in a list on your website. You can use ```<span>``` tags inside lists to highlight specific text, which we can style in the next step. (We can also change the style and look of the bullets later, using CSS.)
 
 --- /task ---
 
