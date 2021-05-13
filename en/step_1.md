@@ -2,12 +2,12 @@
 
 In this project, you will look at the code that makes up a website. You will be able to change the HTML in the website to make it more interesting, and change the CSS to make it more exciting!
 
-You'll read a short story about an influential figure from computing history and make an interesting site about them. 
+You'll pick  a short biography about an influential figure from computing history and make an interesting site about them. 
 
 ### What you will make
 
 --- no-print ---
-Follow the link ![here](https://mark_calleja_raspberrypi_org.trinket.io/sites/web1-project-1) to view an example of a finished website.
+Follow the link [here](https://mark_calleja_raspberrypi_org.trinket.io/sites/web1-project-1) to view an example of a finished website.
 
 --- /no-print ---
 
