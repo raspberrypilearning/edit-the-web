@@ -4,4 +4,4 @@ If you are following the [Web Development 1](https://projects.raspberrypi.org/en
 
 ![ProjectName project](images/projectname-project.png)
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+If you want to have more fun exploring HTML, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript).
