@@ -84,10 +84,30 @@ Lists allow developers to group related information together. Lists can be unord
 Put some of the interesting bullet points from your biography in a list on your website. You can use ```<span>``` tags inside lists to highlight specific text, which we can style in the next step. (We can also change the style and look of the bullets later, using CSS.)
 
 --- /task ---
+The last tag we're going to look at is the ```<img>``` tag. This tag allows us to add images to a webpage. 
 
+Images are not actually 'inserted' into a web page as they would be in a document on your computer; images are *linked* to web pages using a URL. The <img> tag creates a holding space for the image you reference.
 
+The <img> tag has two attributes that you *must* include:
+
+```src=``` - Specifies the path to the image. This can be the URL of an image you search on the internet! (Right click the image and choose 'copy image address', then paste it in here)
+```alt=``` - Specifies an alternate text for the image, if the image for some reason cannot be displayed.
+
+---collapse---
+---
+title: Width and Height of images
+---
+
+You can also specify the ```width``` and ```height``` of an image in pixels inside your ```<img>``` tag like this:
+
+```<img src="image.jpg" alt="My image" width="500" height="600"```>
+
+You can also use CSS to change the size of your images in the next step.
+
+---/collapse---
 
 --- task ---
+Add an image of your inspiring figure to your web page. You can use one of the included images above, or search for a new one and use the address you copy (using the method in the hint above).
 
 --- /task ---
 
