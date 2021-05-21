@@ -111,12 +111,6 @@ Add an image of your inspiring figure to your web page. You can use one of the i
 
 --- /task ---
 
-
-
---- task ---
-
---- /task ---
-
-
+In the next step, we're going to look at the CSS stylesheet to make your website more exciting and colourful!
 
 --- save ---
