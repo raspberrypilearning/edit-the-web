@@ -31,18 +31,74 @@ You can use [this list](https://www.w3schools.com/cssref/css_colors.asp) to find
 Pick a colour now and apply it to your ```body``` rule. This will make the background of your entire page change colour!
 --- /task ---
 
-You can also edit the text on your site using the CSS stylesheet. 
+You can also edit the **text** on your site using the CSS stylesheet. 
+
+You can change the colour of the text itself using the  ```color``` declaration, and the background behind the text using ```background-color```.
+
+You can use ```text-align``` to choose whether your text is ```left```, ```center``` or ```right``` aligned.
+
+--- task ---
+Go through your CSS stylesheet now changing the colours in the different rules until your page looks the way you would like it. 
+--- /task ---
+
+### CSS Lists
+
+Using CSS you can easily set the styling rules for your ordered ```<ol>``` and unordered ```<ul>``` lists, including the way the list markers (bullets, numbers or letters) are formatted. You can even use an image as your bullets if you like!
+
+This is the thing we will change about our lists now.
+
+--- task ---
+Find the ```ul``` and ```ol``` rules in your stylesheet. (They're near the bottom.) You should see a declaration for ```list-style-type```. 
+
+--- /task ---
+
+The options available to you in ```list-style-type``` are:
++ disc
++ circle
++ square
++ decimal
++ decimal-leading-zero
++ lower-roman
++ upper-roman
++ lower-greek
++ lower-latin
++ upper-latin
++ armenian
++ georgian
++ lower-alpha
++ upper-alpha
++ none
+
+--- task ---
+Change the ```list-style-type``` declaration for your list now and see what each of them do. Pick one you like and keep it.
+--- /task ---
+
+The next declaration in your stylesheet under the list rules is ```list-style-position```. 
+
+```list-style-position: outside;``` means that the bullet points will be outside the list item. The start of each line of a list item will be aligned vertically. 
+
+This is the default setting (it is what will be chosen if you leave it empty):
+![Bullets outside of the list](images/list-outside.png)
+
+```list-style-position: inside;``` means that the bullet points will be inside the list item. As it is part of the list item, it will be part of the text and push the text across to make room at the start:
+![Bullets inside the list](images/list-inside.png)
+
+--- task ---
+Have a look at the difference between ```inside``` and ```outside``` list position and pick the one you like. 
+--- /task ---
+
+You can also set an image as your bullet if you like, using the ```list-style-image``` declaration. Try to find small images though, or your list will become enormous! 
+
 --- task ---
 
 --- /task ---
 
-
-
 --- task ---
 
 --- /task ---
+### CSS Images
 
-
+CSS also allows us to create rules for styling images. 
 
 --- task ---
 
