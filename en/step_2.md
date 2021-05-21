@@ -25,13 +25,18 @@ You should see...
 
 The two main languages used to create websites are HTML (which stands for **H**yper**T**ext **M**arkup **L**anguage) and CSS (**C**ascading **S**tyle **S**heets). In this project, we're going to look at what both of them do and how they work together to make interesting websites.
 
-You'll notice that in the code window, there are lots of angular brackets: <> These denote the different **elements** that make up a website. 
+You'll notice that in the code window, there are lots of angular brackets: <> 
+These denote the different **elements** that make up a website. 
 
-HTML elements are made up of a **start tag**, some content you want to display and an **end tag**.
+All HTML elements are made up of a **start tag**, some content you want to display and an **end tag**.
+
+### Website Header
+
+The **header** is the section of your HTML code that tells your browser exactly what sort of file it is interpreting, and allows it to set up what you will see correctly. 
 
 --- task ---
 
-Take a look now at the code in the website **header** and see if you can identify the following elements:
+Take a look now at the code in the website **header** (at the very top of the code) and see if you can identify the following elements:
 
 + The ```<!DOCTYPE html>``` declaration defines that this document is an HTML5 document
 + The ```<html>``` element is the root element of an HTML page, and ends at the end of the page with ```</html>```
@@ -40,9 +45,9 @@ Take a look now at the code in the website **header** and see if you can identif
 
 --- /task ---
 
-If you take a close look, you'll notice that the information contained within the ```<head>``` element isn't displayed on the page. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
+If you take a close look, you'll notice that the information contained within the ```<head>``` element **isn't displayed on the page**. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
 
-We will include this information in every website we make. In this project, we'll only be looking at the **Title** from the information in the site header.
+We will include this same information in the header of every website we make. In this project, we'll only be looking at the **Title** element from the information in the site header.
 
 --- task ---
 Change the title of your website now by editing the text between the two ```<title>``` tags.
