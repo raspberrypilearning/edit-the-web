@@ -1,7 +1,7 @@
 ## What next?
 
-If you are following the [Web Development 1](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a comic strip using HTML tables.
+If you are following the [Web Development 1](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [Divide and Conquer](https://projects.raspberrypi.org/en/projects/divide-conquer) project. In this project, you will learn how to use ```<div>``` tags to split a web page into sections.
 
 ![ProjectName project](images/projectname-project.png)
 
-If you want to have more fun exploring HTML, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript).
+If you want to have more fun exploring web development, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript).
