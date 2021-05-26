@@ -26,6 +26,7 @@ title: What you will need
 ### Software
 
 + This project can be completed in a web browser using [trinket.io](https://trinket.io/) or [repl.it](https://replit.com/)
++ You can also use an offline code editor like [Visual Studio Code](https://code.visualstudio.com/Download)
 
 ### Downloads
 
