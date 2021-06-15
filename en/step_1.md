@@ -59,7 +59,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">HTML & CSS</span> are languages used to create websites, they helped make this page! <span style="color: #0faeb0">HTML elements</span> and tags are the building blocks to structure the website. <span style="color: #0faeb0">CSS rules</span> are used to style how the website looks.</p>
 
-Get inspiration: [Rear Admiral Grace Hopper!]()
+Get inspiration: [Rear Admiral Grace Hopper!](https://trinket.io/html/76a29f9386?outputOnly=true)
 
 + What do you like about the layout?
 + What would you change? 
