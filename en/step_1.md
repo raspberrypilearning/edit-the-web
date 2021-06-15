@@ -2,12 +2,14 @@
 
 In this project, you will look at the code that makes up a website. You will be able to change the HTML in the website to make it more interesting, and change the CSS to make it more exciting!
 
-You'll pick  a short biography about an influential figure from computing history and make an interesting site about them. 
+Let's create a cool, interesting website to share information about a famous Computer Scientist!
 
 ### What you will make
 
 --- no-print ---
-Follow the link [here](https://mark_calleja_raspberrypi_org.trinket.io/sites/web1-project-1) to view an example of a finished website.
+Embedded here is an example of a finished website:
+
+<iframe src="https://trinket.io/embed/html/76a29f9386?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /no-print ---
 
@@ -38,10 +40,9 @@ title: What you will need
 ---
 title: What you will learn
 ---
-+ **HTML** and **CSS** are the languages used to create websites
-+ **HTML** is the language of websites and tells your browser how to display it
-+ Websites can be made to look much nicer using **CSS** in a stylesheet
-+ Websites are all made up of **elements** which are defined using **tags**
++ Make a website about a famous Computer Scientist.
++ Use HTML elements and tags to structure your website
++ Add CSS rules to make a boring website colourful and interesting
 
 --- /collapse ---
 
