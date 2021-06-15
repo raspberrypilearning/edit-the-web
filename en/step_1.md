@@ -1,8 +1,7 @@
 ## Introduction
 
-In this project, you will look at the code that makes up a website. You will be able to change the HTML in the website to make it more interesting, and change the CSS to make it more exciting!
 
-Let's create a cool, interesting website to share information about a famous Computer Scientist!
+Create a cool, interesting website to share information about a famous Computer Scientist!
 
 ### What you will make
 
