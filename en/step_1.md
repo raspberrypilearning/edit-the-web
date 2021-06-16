@@ -50,7 +50,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/edit-the-web-get){:target="_blank"}.
+You can download a completed example project [here](http://rpf.io/p/en/edit-the-web-gh-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/edit-the-web/print){:target="_blank"}.
 
