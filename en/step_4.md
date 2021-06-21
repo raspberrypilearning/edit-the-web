@@ -52,6 +52,7 @@ bring the research and career interests of women in computing to the forefront.<
 ```
 
 --- /task ---
+
 The ```<img>``` tag is used to add images to a webpage. Images are not actually added to the webpage, the ```<img>``` tag has a link to where the image is stored. 
 
 The ```<img>``` tag does not have an ```</img>``` end tag. Instead we write the ```<img>``` tag like this: 
