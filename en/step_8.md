@@ -15,7 +15,7 @@ To add an image from the internet to your website you need to find the image add
 Right-click and ‘Paste’ your image address into the **src** attribute in the ```<img>``` tag. Update your alt-text to fit the image.
 Your code will look something like this:    
 ```html
-<img src="https://raspberrypifactfiles.org/blog/images/portraits/Katherine_Johnson_1.jpg" alt="image of Kathering Johnson taken in 1991">
+<img src="https://raspberrypifactfiles.org/blog/images/portraits/Katherine_Johnson_1.jpg" alt="image of Katherine Johnson taken in 1991">
 ```
 
 --- /collapse ---
