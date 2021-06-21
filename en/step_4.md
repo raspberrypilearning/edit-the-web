@@ -5,9 +5,12 @@ Make your website look more interesting using with lists and images.
 Lists are useful for grouping related information together and displaying it in a way that is easy to understand. 
 
 Lists can be unordered like bullet points or ordered using numbers or letters.
+
 --- task ---
+
 Find some information for your Computer Scientist that could be displayed in a list. 
 **Choose:** will your facts be unordered or ordered?
+
 --- /task ---
 
 The tags for unordered lists are ```<ul>``` and ```</ul>``` and the tags for ordered lists are ```<ol>``` and ```</ol>```.
@@ -21,7 +24,8 @@ Items in a list are written in ```<li> </li>``` list tags.
 <li>apple</li>
 <li>carrot</li>
 </ul>
-
+```
+```html
 <p>Here is an ordered list</p>
 <ol>
 <li>banana</li>
@@ -31,7 +35,8 @@ Items in a list are written in ```<li> </li>``` list tags.
 ```
 
 --- task ---
- Update the list information in the website code. Introduce your list with a short paragraph ```<p>``` 
+
+Update the list information in the website code. Introduce your list with a short paragraph ```<p>``` 
 
 Decide to keep the ```<ul> </ul>``` tags for an unordered list or change them to ```<ol> </ol>``` for an ordered list.
 
@@ -91,6 +96,7 @@ Go to your website code and delete the text ```rpilogo.png``` on line 32.
 --- /task ---
 
 --- task ---
+
 Update the **alt** text to describe the image:
 ```html
 <img src="grace-hopper.jpg" alt="Miltary personnel photo of Rear Admiral Grace Hopper";>
@@ -98,6 +104,7 @@ Update the **alt** text to describe the image:
 --- /task ---
 
 --- task ---
+
 Add  ```width``` and ```height``` attributes to resize your image: 
 
 **Try:**  experiment with different numbers until the image is the size you want:
@@ -108,6 +115,7 @@ Add  ```width``` and ```height``` attributes to resize your image:
 --- /task ---
 
 --- task ---
+
 Edit the remaining paragraphs and headings. Add more lists and images to your website until you are happy with it:
 ![Finished Grace Hopper Website](images/finishedpage.png)
 
