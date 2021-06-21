@@ -1,10 +1,9 @@
 
-### Adding Lists and Images 
+## Adding Lists and Images 
+
 Make your website look more interesting using with lists and images.
 
-Lists are useful for grouping related information together and displaying it in a way that is easy to understand. 
-
-Lists can be unordered like bullet points or ordered using numbers or letters.
+Lists are useful for grouping related information together and displaying it in a way that is easy to understand. Lists can be unordered like bullet points or ordered using numbers or letters.
 
 --- task ---
 
@@ -15,7 +14,7 @@ Find some information for your Computer Scientist that could be displayed in a l
 
 The tags for unordered lists are ```<ul>``` and ```</ul>``` and the tags for ordered lists are ```<ol>``` and ```</ol>```.
 
-Items in a list are written in ```<li> </li>``` list tags.
+Items in a list are written in ```<li>``` and ```</li>``` list tags.
 
 ```html
 <p>Here is an unordered list</p>
@@ -25,6 +24,7 @@ Items in a list are written in ```<li> </li>``` list tags.
 <li>carrot</li>
 </ul>
 ```
+
 ```html
 <p>Here is an ordered list</p>
 <ol>
@@ -71,6 +71,7 @@ alt = the text that is shown if the image cannot be displayed
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">The first web page went live on August 6th 1991. It looked a lot like your website does at the moment with a heading, paragraphs, and a list of information. Images were not added to websites until a year later. </p>
 
 --- task ---
+
 **Choose:** Pick an image to add to your website.
 
 **If working in Trinket:** Images of all the listed Computer Scientists are included in the Trinket image gallery for the starter project. You can see the filenames by clicking the gallery icon at the top right of the workspace:
@@ -81,6 +82,7 @@ alt = the text that is shown if the image cannot be displayed
 --- /task ---
 
 --- task ---
+
 Go to your website code and delete the text ```rpilogo.png``` on line 32.
 
 **If working in Trinket:** Replace this text with the filename of your chosen image, making sure to use the correct **extension** for the file! (The letters after the dot.)
@@ -93,6 +95,7 @@ Go to your website code and delete the text ```rpilogo.png``` on line 32.
 ```html
 <img src="images/grace-hopper.jpg" alt="raspberry pi logo";>
 ``` 
+
 --- /task ---
 
 --- task ---
