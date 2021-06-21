@@ -2,7 +2,7 @@
 
 Now that you know how to use the main elements of HTML and CSS, what else can you add to your webpage to make it even cooler?
 
-You could use the ```<img>``` element to add more pictures you find on the internet!
+Try using the ```<img>``` element to add more pictures you find on the internet!
 
 --- collapse ---
 ---
@@ -20,4 +20,4 @@ Your code will look something like this:
 
 --- /collapse ---
 
-
+--- save ---
