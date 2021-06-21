@@ -80,7 +80,7 @@ Change the word ```solid``` in your border declaration and see what sort of bord
 --- /task ---
 
 --- task ---
-The final value in our ```border``` declaration is an easy one - colour. Simply change the word ```black``` to any of the colour names you have found in [this list](https://www.w3schools.com/cssref/css_colors.asp).
+The final value in our ```border``` declaration is an easy one - colour. Simply change the word ```black``` to any of the colour names you have found in [this list](https://www.w3schools.com/cssref/css_colors.asp){:target="_blank"}.
 --- /task ---
 
 Once you have created a border you like, we can use the next declaration to make the corners smoother and rounded rather than sharp and square using the ```border-radius``` declaration. This delcaration determines how big a circle you want to use for the corners - the bigger the number, the rounder the corners!

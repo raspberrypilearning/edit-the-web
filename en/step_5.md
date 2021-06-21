@@ -37,7 +37,7 @@ You can switch between your ```index.html``` and ```style.css``` files to compar
 
 One of the main things CSS is used for when formatting websites is adding splashes of colour to different elements. Using the rules in your CSS stylesheet, you can change the colours which are applied to each different element, just by writing the name of the colour you want in the declaration.
 
-[This list](https://www.w3schools.com/cssref/css_colors.asp) shows the colours you can use in your website. When you add colours to your stylesheet, you can use either the **colour name** or the **hex code** to define what colour you want.  
+[This list](https://www.w3schools.com/cssref/css_colors.asp){:target="_blank"} shows the colours you can use in your website. When you add colours to your stylesheet, you can use either the **colour name** or the **hex code** to define what colour you want.  
 
 ![CSS colour examples PaleVioletRed, PapayaWhip and PeachPuff](images/sample-colours.png)
 

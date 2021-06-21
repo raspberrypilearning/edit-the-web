@@ -6,11 +6,11 @@ A website needs a purpose; your website will share information about a famous Co
 
 --- task ---
 These Computer Scientists have helped and inspired many people. Pick one of these notable figures from computer science history to base your site on:
-+ [Ajay Bhatt](https://en.wikipedia.org/wiki/Ajay_Bhatt) - Inventor of the USB standard (India)
-+ [Alan Emtage](https://en.wikipedia.org/wiki/Alan_Emtage) - Inventor of internet search (Barbados)
-+ [Radia Perlman](https://en.wikipedia.org/wiki/Radia_Perlman) - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
-+ [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) - Inventor of the compiler, US Navy programmer since WWII (USA)
-+ [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson) - NASA Mathematician and programmer, subject of the film *Hidden Figures*. (USA)
++ [Ajay Bhatt](https://en.wikipedia.org/wiki/Ajay_Bhatt){:target="_blank"} - Inventor of the USB standard (India)
++ [Alan Emtage](https://en.wikipedia.org/wiki/Alan_Emtage){:target="_blank"} - Inventor of internet search (Barbados)
++ [Radia Perlman](https://en.wikipedia.org/wiki/Radia_Perlman){:target="_blank"} - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
++ [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper){:target="_blank"} - Inventor of the compiler, US Navy programmer since WWII (USA)
++ [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson){:target="_blank"} - NASA Mathematician and programmer, subject of the film *Hidden Figures*. (USA)
 --- /task ---
 
 --- task ---
