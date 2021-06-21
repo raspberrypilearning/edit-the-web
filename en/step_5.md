@@ -1,5 +1,5 @@
 
-## Make it fancy with CSS
+## Making it Colourful
 
 If HTML tells the browser how to set out the structure of the website and **what** you should see, CSS tells the browser **how it should look** when it comes to colours, sizes and other artistic choices. HTML was *never* designed to change the way a page looks, only what content was included on the page. 
 

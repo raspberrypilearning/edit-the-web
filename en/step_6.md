@@ -1,5 +1,5 @@
 
-### CSS Lists
+## Using More Style
 
 Using CSS you can easily set the styling rules for your ordered ```<ol>``` and unordered ```<ul>``` lists, including the way the list markers (bullets, numbers or letters) are formatted. You can even use an image as your bullets if you like!
 
