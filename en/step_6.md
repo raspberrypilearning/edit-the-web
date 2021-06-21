@@ -3,17 +3,19 @@
 
 Using CSS you can easily set the styling rules for your ordered ```<ol>``` and unordered ```<ul>``` lists, including the way the list markers (bullets, numbers or letters) are formatted. You can even use an image as your bullets if you like!
 
-This is the thing we will change about our lists now.
-
 --- task ---
 Find the ```ul``` and ```ol``` rules in your stylesheet. (They're near the bottom.) You should see a declaration for ```list-style-type```. 
 
 --- /task ---
 
 The options available to you in ```list-style-type``` are:
+
+Unordered:
 + disc
 + circle
 + square
+
+Ordered:
 + decimal
 + decimal-leading-zero
 + lower-roman
@@ -25,6 +27,8 @@ The options available to you in ```list-style-type``` are:
 + georgian
 + lower-alpha
 + upper-alpha
+
+Both:
 + none
 
 --- task ---
