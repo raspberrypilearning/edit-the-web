@@ -66,4 +66,4 @@ Get inspiration: [Rear Admiral Grace Hopper!](https://trinket.io/html/76a29f9386
 + Are colours important, would a black and white site be as eye-catching?
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">A <span style="color: #0faeb0">Web designer</span> is someone who plans, designs and creates websites. There are hundreds of millions of active websites so using HTML & CSS helps their websites <span style="color: #0faeb0">stand out.</span></p>
+A <span style="color: #0faeb0">Web designer</span> is someone who plans, designs and creates websites. There are hundreds of millions of active websites so using HTML & CSS helps their websites <span style="color: #0faeb0">stand out.</span></p>
