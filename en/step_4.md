@@ -1,7 +1,7 @@
 
 ## Adding Lists and Images 
 
-Make your website look more interesting using with lists and images.
+Make your website look more interesting with lists and images.
 
 Lists are useful for grouping related information together and displaying it in a way that is easy to understand. Lists can be unordered like bullet points or ordered using numbers or letters.
 
