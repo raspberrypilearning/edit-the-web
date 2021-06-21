@@ -9,7 +9,9 @@ Try using the ```<img>``` element to add more pictures you find on the internet!
 title: Adding an image from the internet
 ---
 
-To add an image from the internet to your website you need to find the image address (place it is stored). Right click on your chosen image and select **Copy image address**:
+To add an image from the internet to your website you need to find the image address (place it is stored). 
+
+Right click on your chosen image and select **Copy image address**:
 ![Windows right-click context menu showing highlighted copy image address menu item](images/imageaddress.png)
 
 Right-click and ‘Paste’ your image address into the **src** attribute in the ```<img>``` tag. Update your alt-text to fit the image.
