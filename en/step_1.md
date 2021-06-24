@@ -1,69 +1,35 @@
 ## Introduction
 
-
 Create a cool, interesting website to share information about a famous Computer Scientist!
 
-### What you will make
+You will:
++ Make a website about a famous Computer Scientist.
++ Use **HTML elements** and **tags** to structure your website
++ Add **CSS rules** to make a boring website colourful and interesting
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">HTML & CSS</span> are languages used to create websites, they helped make this page! <span style="color: #0faeb0">HTML elements</span> and tags are the building blocks to structure the website. <span style="color: #0faeb0">CSS rules</span> are used to style how the website looks.</p>
 
 --- no-print ---
-Embedded here is an example of a finished website:
+--- task ---
+### Get inspiration: Rear Admiral Grace Hopper
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
-<iframe src="https://trinket.io/embed/html/76a29f9386?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
++ What do you like about the layout? 
++ What would you change? 
++ Are colours important, would a black and white site be as eye-catching?
+</div>
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe src="https://trinket.io/embed/html/76a29f9386?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+</div>
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
 ![Complete project](images/showcase_static.png)
 --- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet
-
-### Software
-
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/) or [repl.it](https://replit.com/){:target="_blank"}
-+ You can also use an offline code editor like [Visual Studio Code](https://code.visualstudio.com/Download){:target="_blank"}
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/edit-the-web-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-+ Make a website about a famous Computer Scientist.
-+ Use HTML elements and tags to structure your website
-+ Add CSS rules to make a boring website colourful and interesting
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download a completed example project [here](http://rpf.io/p/en/edit-the-web-gh-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/edit-the-web/print){:target="_blank"}.
-
---- /collapse ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">HTML & CSS</span> are languages used to create websites, they helped make this page! <span style="color: #0faeb0">HTML elements</span> and tags are the building blocks to structure the website. <span style="color: #0faeb0">CSS rules</span> are used to style how the website looks.</p>
-
-Get inspiration: [Rear Admiral Grace Hopper!](https://trinket.io/html/76a29f9386?outputOnly=true){:target="_blank"}
-
-+ What do you like about the layout?
-+ What would you change? 
-+ Are colours important, would a black and white site be as eye-catching?
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">Web designer</span> is someone who plans, designs and creates websites. There are hundreds of millions of active websites so using HTML & CSS helps their websites <span style="color: #0faeb0">stand out.</span></p>
