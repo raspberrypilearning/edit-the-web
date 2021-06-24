@@ -20,7 +20,6 @@ You will:
 + What would you change? 
 + Are colours important, would a black and white site be as eye-catching?
 </div>
-<div class="scratch-preview" style="margin-left: 15px;">
   <iframe src="https://trinket.io/embed/html/76a29f9386?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
