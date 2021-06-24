@@ -8,32 +8,32 @@ You have learned a lot! Answer the questions below to reflect on what you've lea
 legend: Question 3 of 3
 ---
 
-Insert Q3
+In HTML code, this tag shows where the viewable parts of the webpage begin:
 
 --- choices ---
 
-- ( ) Answer Wrong
+- ( ) ```<head>```
 
   --- feedback ---
-Feedback Wrong
+Incorrect! Everything inside the ```<head>``` tags is only used by your browser to interpret the code properly.
   --- /feedback ---
 
-- (x) Answer Right
+- (x) ```<body>```
 
   --- feedback ---
-Feedback Right
+Correct! Everything inside the ```<body>``` tags is viewable by the user.
   --- /feedback ---
 
-- ( ) Answer Wrong
+- ( ) ```<p>```
 
   --- feedback ---
-Feedback Wrong
+Incorrect! The ```<p>``` tag denotes normal text - the 'p' stands for 'paragraph'.  
   --- /feedback ---
 
-- ( ) Answer Wrong
+- ( ) ```<h1>```
 
   --- feedback ---
-Feedback Wrong
+Incorrect! The ```<h1>``` tags denote a heading of the largest size - they go all the way down to teeny-tiny ```<h6>```!
   --- /feedback ---
 
 --- /choices ---

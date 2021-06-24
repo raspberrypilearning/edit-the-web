@@ -8,32 +8,32 @@ You have learned a lot! Answer the questions below to reflect on what you've lea
 legend: Question 1 of 3
 ---
 
-Insert Q1
+The structure and layout of a webpage is created using this language:
 
 --- choices ---
 
-- ( ) Answer Wrong
+- ( ) CSS
 
   --- feedback ---
-Feedback Wrong
+Incorrect! CSS is used to style websites and make the content more interesting and exciting. It doesn't create the content for a website.
   --- /feedback ---
 
-- (x) Answer Right
+- ( ) Javascript
 
   --- feedback ---
-Feedback Right
+Incorrect! Javascript is used to create dynamic digital content on the web.
   --- /feedback ---
 
-- ( ) Answer Wrong
+- (x) HTML	
 
   --- feedback ---
-Feedback Wrong
+Correct! HTML is the language used to make the content that is shown on webpages.	
   --- /feedback ---
 
-- ( ) Answer Wrong
+- ( ) Python
 
   --- feedback ---
-Feedback Wrong
+FIncorrect: Python is a language that can be used for nearly anything, but it doesn't usually build websites!
   --- /feedback ---
 
 --- /choices ---
