@@ -17,7 +17,7 @@ These Computer Scientists have helped and inspired many people. Pick one of thes
 
 If working **online**, open the [starter project](https://trinket.io/library/trinkets/609451ca1d){:target="_blank"} in Trinket. The ```index.html``` file is open and the code that you can see on the left is HTML. On the right, you can see the webpage that the HTML code has made.
  
-If working **offline**, open the project [starter file](http://rpf.io/p/en/edit-the-web-get){:target="_blank"} in an offline text editor or coding IDE. 
+If working **offline**, open the project [starter file](http://rpf.io/p/en/edit-the-web-get){:target="_blank"} in an offline text editor or coding IDE like [Visual Studio Code](https://code.visualstudio.com/Download) (or even just notepad!)
 
 You should see...
  
