@@ -1,21 +1,23 @@
-## Make a website your own with HTML
+## Choose a Figure
 
 In this project you're going to take a webpage that looks really boring and contains no interesting information, then change the HTML and CSS to make it way cooler. 
 
-Before we start, pick a notable figure from computer science history you'll create your site about. 
+A website needs a purpose; your website will share information about a famous Computer Scientist. Who will you choose?
 
-We have provided some information on a few people here, or you are welcome to research another person who inspires you:
-+ [Ajay Bhatt](https://en.wikipedia.org/wiki/Ajay_Bhatt) - Inventor of the USB standard (India)
-+ [Alan Emtage](https://en.wikipedia.org/wiki/Alan_Emtage) - Inventor of internet search (Barbados)
-+ [Radia Perlman](https://en.wikipedia.org/wiki/Radia_Perlman) - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
-+ [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) - Inventor of the compiler, US Navy programmer since WWII (USA)
-+ [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson) - NASA Mathematician and programmer, subject of the film *Hidden Figures*. (USA)
+--- task ---
+These Computer Scientists have helped and inspired many people. Pick one of these notable figures from computer science history to base your site on:
++ [Ajay Bhatt](https://en.wikipedia.org/wiki/Ajay_Bhatt){:target="_blank"} - Inventor of the USB standard (India)
++ [Alan Emtage](https://en.wikipedia.org/wiki/Alan_Emtage){:target="_blank"} - Inventor of internet search (Barbados)
++ [Radia Perlman](https://en.wikipedia.org/wiki/Radia_Perlman){:target="_blank"} - a.k.a. the 'Mother of the Internet', invented STP networking (USA)
++ [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper){:target="_blank"} - Inventor of the compiler, US Navy programmer since WWII (USA)
++ [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson){:target="_blank"} - NASA Mathematician and programmer, subject of the film *Hidden Figures*. (USA)
+--- /task ---
 
 --- task ---
 
-If working **online**, open the [starter project](https://trinket.io/library/trinkets/609451ca1d){:target="_blank"} in Trinket.
+If working **online**, open the [starter project](https://trinket.io/library/trinkets/609451ca1d){:target="_blank"} in Trinket. The ```index.html``` file is open and the code that you can see on the left is HTML. On the right, you can see the webpage that the HTML code has made.
  
-If working **offline**, open the project [starter file](http://rpf.io/p/en/edit-the-web-get){:target="_blank"} in an offline text editor or coding IDE. 
+If working **offline**, open the project [starter file](http://rpf.io/p/en/edit-the-web-get){:target="_blank"} in an offline text editor or coding IDE like [Visual Studio Code](https://code.visualstudio.com/Download) (or even just notepad!)
 
 You should see...
  
@@ -25,77 +27,26 @@ You should see...
 
 The two main languages used to create websites are HTML (which stands for **H**yper**T**ext **M**arkup **L**anguage) and CSS (**C**ascading **S**tyle **S**heets). In this project, we're going to look at what both of them do and how they work together to make interesting websites.
 
+--- task ---
 You'll notice that in the code window, there are lots of angular brackets: <> These denote the different **elements** that make up a website. 
 
-HTML elements are made up of a **start tag**, some content you want to display and an **end tag**.
+All HTML elements are made up of a **start tag**, some content you want to display and an **end tag**.
 
---- task ---
-
-Take a look now at the code in the website **header** and see if you can identify the following elements:
-
-+ The ```<!DOCTYPE html>``` declaration defines that this document is an HTML5 document
-+ The ```<html>``` element is the root element of an HTML page, and ends at the end of the page with ```</html>```
-+ The```<head>``` element contains meta information about the HTML page and ends at the ```</head>``` end tag
-+ The ```<title>``` element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) and ends with the ```</title>``` end tag
+Look for this HTML code on line 8 of your code <title>Getting started with HTML & CSS</title>
 
 --- /task ---
-
-If you take a close look, you'll notice that the information contained within the ```<head>``` element isn't displayed on the page. It is mostly filled with information for your browser, to give it specific instructions on how to understand your code. 
-
-We will include this information in every website we make. In this project, we'll only be looking at the **Title** from the information in the site header.
 
 --- task ---
 Change the title of your website now by editing the text between the two ```<title>``` tags.
 
-You *could* write anything you want here, but we suggest you make it something about your chosen figure, so the browser tab shows what the page is about.
+The ```<title>``` tag sits in the website **header**.The header is the section of your HTML code that tells your browser exactly what sort of file it is interpreting, and allows it to set up what you will see correctly. We will include mostly the same information in the header of every website we make.
+
+Your title will not be displayed on the page but is very important for Search Engines; so write a title that includes your chosen figure. We chose **Grace Hopper: Pushing Boundaries**:
+
+![Image of browser tab title reading Grace Hopper: Pushing Boundaries](images/browsertab.png)
 --- /task ---
 
-### Website Body
-Inside the ```<body>``` element under the header, we put all the other elements we want to be displayed. 
-
-+ The ```<body>``` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. and ends at the ```</body>``` tag.
-+ The ```<h1>``` element defines a large heading, with higher numbers making smaller sized headings, all the way down to ```<h6>```. It ends in a ```</h1>``` tag.
-+ The ```<p>``` element defines a paragraph - what end tag do you think it has?
-
---- task ---
-Change the **heading** of your site to be indicative of the information you're about to include. 
-
-It might be the name if the figure you've chosen, or something more exciting about them that would draw your reader in.
---- /task ---
-
-The main body of your website will be in paragraph text marked by ```<p>``` and ```</p>``` tags. 
-
-In the main body of your website, you can see some text in the paragraph is grey.
-
-If there is text within your paragraph that you would like to style differently, you can set some ```<span>``` tags around it and then change the CSS. 
-
---- task ---
-Create a first paragraph introducing your inspiring figure, using ```<span>``` tags to highlight important information. 
-
-Leave it ```DarkGray``` for now, we'll change the colour in the next step.
---- /task ---
-
-### Lists 
-
-Lists allow developers to group related information together. Lists can be unordered (like bullet points) or ordered (sequenced with numbers or letters). 
-
-
---- task ---
-
---- /task ---
-
-
-
---- task ---
-
---- /task ---
-
-
-
---- task ---
-
---- /task ---
-
-
-
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+When people use search engines to find information they are shown a list of relevant websites. <span style="color: #0faeb0">Search Engine Optimisation (SEO)</span> is the process of improving a website so that it ranks highly and appears on the right searches. With good SEO a website will have more visitors. 
+</p>
 --- save ---

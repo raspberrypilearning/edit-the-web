@@ -1,56 +1,33 @@
 ## Introduction
 
-In this project, you will look at the code that makes up a website. You will be able to change the HTML in the website to make it more interesting, and change the CSS to make it more exciting!
+Create a cool, interesting website to share information about a famous Computer Scientist!
 
-You'll read a short story about an influential figure from computing history and make an interesting site about them. 
+You will:
++ Make a website about a famous Computer Scientist.
++ Use **HTML elements** and **tags** to structure your website
++ Add **CSS rules** to make a boring website colourful and interesting
 
-### What you will make
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">HTML & CSS</span> are languages used to create websites, they helped make this page! <span style="color: #0faeb0">HTML elements</span> and tags are the building blocks to structure the website. <span style="color: #0faeb0">CSS rules</span> are used to style how the website looks.</p>
 
 --- no-print ---
-Follow the link ![here](https://mark_calleja_raspberrypi_org.trinket.io/sites/web1-project-1) to view an example of a finished website.
+--- task ---
+### Get inspiration: Rear Admiral Grace Hopper
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
 
++ What do you like about the layout? 
++ What would you change? 
++ Are colours important, would a black and white site be as eye-catching?
+</div>
+  <iframe src="https://trinket.io/embed/html/76a29f9386?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
 ![Complete project](images/showcase_static.png)
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet
-
-### Software
-
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/) or [repl.it](https://replit.com/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/edit-the-web-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-+ **HTML** and **CSS** are the languages used to create websites
-+ **HTML** is the language of websites and tells your browser how to display it
-+ Websites can be made to look much nicer using **CSS** in a stylesheet
-+ Websites are all made up of **elements** which are defined using **tags**
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/edit-the-web-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/edit-the-web/print){:target="_blank"}.
-
---- /collapse ---
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">Web designer</span> is someone who plans, designs and creates websites. There are hundreds of millions of active websites so using HTML & CSS helps their websites <span style="color: #0faeb0">stand out.</span></p>
