@@ -42,16 +42,7 @@ Decide to keep the ```<ul> </ul>``` tags for an unordered list or change them to
 
 Change the information in the ```<li></li>``` list items to show information on your Computer Scientist. In the example we wrote:
 
---- code ---
-
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 
-line_highlights: 2-7
----
-```
+```html
 <p> Grace had a skill for taking complicated ideas and translating them into information that anyone could understand. She has been recognised in many amazing ways for her contributions to computer science:</p>
     <ul>
         <li>Grace Hopper was awarded <span>40 honorary degrees</span> from universities worldwide
@@ -64,7 +55,6 @@ Celebration of Women in Computing</span>. Held yearly, this conference is design
 bring the research and career interests of women in computing to the forefront.</li>
     </ul>
 ```    
---- /code ---
 
 --- /task ---
 
