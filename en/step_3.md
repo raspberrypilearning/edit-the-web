@@ -2,23 +2,25 @@
 Use the website body to add a heading and paragraphs.
 
 --- task ---
-Find the ```<body>``` element in your code. This element contains all the other elements we want to be displayed on the website. 
+Find the `<body>` element in your code. This element contains all the other elements we want to be displayed on the website. 
 
 Inside the <body> element are some heading elements. The biggest heading on a webpage has the tag <h1>. There are six sizes of heading from <h1> down to <h6>. How many heading elements can you find in the code for your website?
 --- /task ---
 
 --- task ---
-**Choose:** a <h1> **heading** for your website. Think of something exciting about your Computer Scientist that would make people want to look at your page. 
+**Choose:** a `<h1>` **heading** for your website. Think of something exciting about your Computer Scientist that would make people want to look at your page. 
 
-Find the <h1> tag and update the information to show your new heading. We chose:
+Find the `<h1>` tag and update the information to show your new heading. We chose:
 
-```<h1>Rear Admiral Grace Hopper</h1>```
+```html
+<h1>Rear Admiral Grace Hopper</h1>
+```
 
 **Test:** Look at your website on the right of your code. As you type your website will update to show your changes. 
 
 --- /task ---
 
-The <body> element contains some paragraphs. A paragraph uses the tags <p> and </p>. 
+The <body> element contains some paragraphs. A paragraph uses the tags `<p>` and `</p>`. 
 
 --- task ---
 Find the first paragraph in your code. Write a paragraph to introduce your inspiring Computer Scientist. We wrote:
@@ -30,7 +32,7 @@ Find the first paragraph in your code. Write a paragraph to introduce your inspi
 --- /task ---
 
 --- task ---
-The ```<span>``` element can be used to highlight important information. We have used the ```<span>``` element to highlight important text in dark grey. 
+The `<span>` element can be used to highlight important information. We have used the `<span>` element to highlight important text in dark grey. 
 
 **Choose:** find a few important words in your first paragraph that you would like to highlight then add a ```<span>``` tag. 
 
