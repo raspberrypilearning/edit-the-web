@@ -4,7 +4,7 @@ Use the website body to add a heading and paragraphs.
 --- task ---
 Find the `<body>` element in your code. This element contains all the other elements we want to be displayed on the website. 
 
-Inside the <body> element are some heading elements. The biggest heading on a webpage has the tag <h1>. There are six sizes of heading from <h1> down to <h6>. How many heading elements can you find in the code for your website?
+Inside the <body> element are some heading elements. The biggest heading on a webpage has the tag `<h1>`. There are six sizes of heading from `<h1>` down to `<h6>`. How many heading elements can you find in the code for your website?
 --- /task ---
 
 --- task ---
