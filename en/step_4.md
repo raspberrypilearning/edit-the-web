@@ -51,7 +51,7 @@ line_numbers: true
 line_number_start: 
 line_highlights: 2-7
 ---
-
+```
 <p> Grace had a skill for taking complicated ideas and translating them into information that anyone could understand. She has been recognised in many amazing ways for her contributions to computer science:</p>
     <ul>
         <li>Grace Hopper was awarded <span>40 honorary degrees</span> from universities worldwide
@@ -63,7 +63,7 @@ will connect the US, UK and Spain!</li>
 Celebration of Women in Computing</span>. Held yearly, this conference is designed to
 bring the research and career interests of women in computing to the forefront.</li>
     </ul>
-    
+```    
 --- /code ---
 
 --- /task ---
